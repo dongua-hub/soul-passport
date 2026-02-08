@@ -6,7 +6,7 @@ import {
   extractGoldenQuote, 
   extractSummary, 
   determineOriEmotion 
-} from '@/lib/cardThemeUtils';
+} from '@/lib/cardthemeutils';
 
 interface ResultCardExportV2Props {
   cardName: string;
