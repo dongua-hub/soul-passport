@@ -1,6 +1,6 @@
 "use client";
 import { forwardRef } from 'react';
-import { extractGoldenQuote, extractSummary } from '@/lib/cardthemeutils'; // ✅ 統一使用 cardthemeutils
+import { extractGoldenQuote, extractSummary } from '@/lib/cardThemeUtils'; // ✅ 統一使用 cardthemeutils
 
 interface ResultCardExportProps {
   cardName: string;
