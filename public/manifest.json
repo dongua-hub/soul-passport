@@ -1,0 +1,24 @@
+{
+  "name": "心靈護照 Soul Passport",
+  "short_name": "心靈護照",
+  "description": "與奧莉一起進行塔羅占卜的療癒旅程",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F8F4",
+  "theme_color": "#4A457A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
